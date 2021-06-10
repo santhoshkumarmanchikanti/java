@@ -4,7 +4,9 @@ import java.util.Scanner;
 import comm.example.Employee;
 import comm.example.Engineer;
 import comm.example.Manager;
-
+import comm.example.Employee;
+import comm.example.Engineer;
+import comm.example.Manager;
 public class App {
 	private static Scanner scanner=new Scanner(System.in);
 	private Employee[] employees;
